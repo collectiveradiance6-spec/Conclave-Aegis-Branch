@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "both",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.shellIntegration.environmentReporting": true,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta"
+}
