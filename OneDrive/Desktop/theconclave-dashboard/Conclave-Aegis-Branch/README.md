@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🛡️ CONCLAVE AEGIS
+# 🛡️ CONCLAVE ACE
 ### Autonomous Infrastructure for the Conclave Ecosystem
 
 Discord Automation • ARK Cluster Intelligence • Community Operations Platform
